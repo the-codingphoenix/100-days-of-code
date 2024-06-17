@@ -10,3 +10,14 @@
 1. [100DaysCSS](https://100dayscss.com/days/1/)
 2. [Github Repository](https://github.com/the-codingphoenix/CSS--Number-With-Gradient)
 3. [Live View of Solution](https://the-codingphoenix.github.io/CSS--Number-With-Gradient/)
+
+### Day 2: Sunday, June 16, 2024
+
+**Today's Progress**: I did the day 2 css challenge on 100DaysCss. The challenge is to create an animated menu button.
+
+**Thoughts** I had a challenge positioning the menu button in the center of the circle, still this was super fun.
+
+**Link(s) to work**
+1. [100DaysCSS](https://100dayscss.com/days/2/)
+2. [Github Repository](https://github.com/the-codingphoenix/Animated-Menu-Button)
+3. [Live View of Solution](https://the-codingphoenix.github.io/Animated-Menu-Button/)

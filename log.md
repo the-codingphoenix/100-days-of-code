@@ -21,3 +21,14 @@
 1. [100DaysCSS](https://100dayscss.com/days/2/)
 2. [Github Repository](https://github.com/the-codingphoenix/Animated-Menu-Button)
 3. [Live View of Solution](https://the-codingphoenix.github.io/Animated-Menu-Button/)
+
+### Day 3: Monday, June 17, 2024
+
+**Today's Progress**: I did the day 3 css challenge on 100DaysCss. The challenge is to create a pyramide with rotating sun and shadow.
+
+**Thoughts** I needed to do some research on the transform property and animation, but this was fun.
+
+**Link(s) to work**
+1. [100DaysCSS](https://100dayscss.com/days/3/)
+2. [Github Repository](https://github.com/the-codingphoenix/The-Pyramide)
+3. [Live View of Solution](https://the-codingphoenix.github.io/The-Pyramide/)

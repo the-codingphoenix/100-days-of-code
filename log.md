@@ -32,3 +32,14 @@
 1. [100DaysCSS](https://100dayscss.com/days/3/)
 2. [Github Repository](https://github.com/the-codingphoenix/The-Pyramide)
 3. [Live View of Solution](https://the-codingphoenix.github.io/The-Pyramide/)
+
+### Day 4: Tuesday, June 18, 2024
+
+**Today's Progress**: I did the day 4 css challenge on 100DaysCss. The challenge is to create a calming loading screen. 
+
+**Thoughts** I enjoyed doing the animation part a lot. Not so sure about the color though. I will revisit later
+
+**Link(s) to work**
+1. [100DaysCSS](https://100dayscss.com/days/4/)
+2. [Github Repository](https://github.com/the-codingphoenix/LoadingAnimation)
+3. [Live View of Solution](https://the-codingphoenix.github.io/LoadingAnimation/)

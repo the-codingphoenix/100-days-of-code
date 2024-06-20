@@ -43,3 +43,14 @@
 1. [100DaysCSS](https://100dayscss.com/days/4/)
 2. [Github Repository](https://github.com/the-codingphoenix/LoadingAnimation)
 3. [Live View of Solution](https://the-codingphoenix.github.io/LoadingAnimation/)
+
+### Day 5: Wednesday, June 19, 2024
+
+**Today's Progress**: I did the day 5 css challenge on 100DaysCss. The challenge is to create statistic chart. 
+
+**Thoughts** I had to do a lot of research for this. It also took a lot of time for me to get the chart to reflect the points correctly. Still it was fun watching everything come together.
+
+**Link(s) to work**
+1. [100DaysCSS](https://100dayscss.com/days/5/)
+2. [Github Repository](https://github.com/the-codingphoenix/Statistics-Chart)
+3. [Live View of Solution](https://the-codingphoenix.github.io/Statistics-Chart/)

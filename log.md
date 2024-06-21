@@ -54,3 +54,14 @@
 1. [100DaysCSS](https://100dayscss.com/days/5/)
 2. [Github Repository](https://github.com/the-codingphoenix/Statistics-Chart)
 3. [Live View of Solution](https://the-codingphoenix.github.io/Statistics-Chart/)
+
+### Day 6: Thursday, June 20, 2024
+
+**Today's Progress**: I did the day 6 css challenge on 100DaysCss. The challenge is to create a profile card for social media. 
+
+**Thoughts** This was challenging for me. I realize I need more practice on layouts.
+
+**Link(s) to work**
+1. [100DaysCSS](https://100dayscss.com/days/6/)
+2. [Github Repository](https://github.com/the-codingphoenix/Profile-Card)
+3. [Live View of Solution](https://the-codingphoenix.github.io/Profile-Card/)

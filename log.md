@@ -65,3 +65,14 @@
 1. [100DaysCSS](https://100dayscss.com/days/6/)
 2. [Github Repository](https://github.com/the-codingphoenix/Profile-Card)
 3. [Live View of Solution](https://the-codingphoenix.github.io/Profile-Card/)
+
+### Day 7: Friday, June 21, 2024
+
+**Today's Progress**: I did the day 7 css challenge on 100DaysCss. The challenge is to create a notification panel to include a menu and search option. 
+
+**Thoughts** This was challenging for me. But I was able to complete the challenge with research
+
+**Link(s) to work**
+1. [100DaysCSS](https://100dayscss.com/days/7/)
+2. [Github Repository](https://github.com/the-codingphoenix/Notifications-Search-Menu)
+3. [Live View of Solution](https://the-codingphoenix.github.io/Notifications-Search-Menu/)

@@ -4,8 +4,6 @@
 
 **Today's Progress**: I did the day 1 css challenge on 100DaysCss. The challenge is to create a custom build number with gradient.
 
-**Thoughts** I've been coding for a few months. I thought I really grasped CSS but coming across this challenge, I realize I am still struggling with CSS. Still, I was able to complete the challenge with lots of research. I had some errors along the way but was able to resolve them all. 
-
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/1/)
 2. [Github Repository](https://github.com/the-codingphoenix/CSS--Number-With-Gradient)
@@ -14,8 +12,6 @@
 ### Day 2: Sunday, June 16, 2024
 
 **Today's Progress**: I did the day 2 css challenge on 100DaysCss. The challenge is to create an animated menu button.
-
-**Thoughts** I had a challenge positioning the menu button in the center of the circle, still this was super fun.
 
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/2/)
@@ -26,8 +22,6 @@
 
 **Today's Progress**: I did the day 3 css challenge on 100DaysCss. The challenge is to create a pyramide with rotating sun and shadow.
 
-**Thoughts** I needed to do some research on the transform property and animation, but this was fun.
-
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/3/)
 2. [Github Repository](https://github.com/the-codingphoenix/The-Pyramide)
@@ -36,8 +30,6 @@
 ### Day 4: Tuesday, June 18, 2024
 
 **Today's Progress**: I did the day 4 css challenge on 100DaysCss. The challenge is to create a calming loading screen. 
-
-**Thoughts** I enjoyed doing the animation part a lot. Not so sure about the color though. I will revisit later
 
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/4/)
@@ -48,8 +40,6 @@
 
 **Today's Progress**: I did the day 5 css challenge on 100DaysCss. The challenge is to create statistic chart. 
 
-**Thoughts** I had to do a lot of research for this. It also took a lot of time for me to get the chart to reflect the points correctly. Still it was fun watching everything come together.
-
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/5/)
 2. [Github Repository](https://github.com/the-codingphoenix/Statistics-Chart)
@@ -58,8 +48,6 @@
 ### Day 6: Thursday, June 20, 2024
 
 **Today's Progress**: I did the day 6 css challenge on 100DaysCss. The challenge is to create a profile card for social media. 
-
-**Thoughts** This was challenging for me. I realize I need more practice on layouts.
 
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/6/)
@@ -70,9 +58,18 @@
 
 **Today's Progress**: I did the day 7 css challenge on 100DaysCss. The challenge is to create a notification panel to include a menu and search option. 
 
-**Thoughts** This was challenging for me. But I was able to complete the challenge with research
 
 **Link(s) to work**
 1. [100DaysCSS](https://100dayscss.com/days/7/)
 2. [Github Repository](https://github.com/the-codingphoenix/Notifications-Search-Menu)
 3. [Live View of Solution](https://the-codingphoenix.github.io/Notifications-Search-Menu/)
+
+I had taken a break due to an unexpected personal situation that forced me to travel for a couple days. As such, I have decided to start my 100 days of coding over.
+
+### Day 1: Wednesday, June 26, 2024
+
+**Today's Progress**: I am working on a quote generator. Today, I focused on the html and css aspect of it. Right now, there is no functionality in the buttons, but I was able to make the container responsive to different screen types. 
+
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/QuoteGenerator)
+2. [Live View of Solution](https://the-codingphoenix.github.io/QuoteGenerator/)

@@ -73,3 +73,11 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/QuoteGenerator)
 2. [Live View of Solution](https://the-codingphoenix.github.io/QuoteGenerator/)
+   
+### Day 2: Thursday, June 27, 2024
+
+**Today's Progress**: I completed the quote generator. Users can now tweet quotes and also request new quotes. 
+
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/QuoteGenerator)
+2. [Live View of Solution](https://the-codingphoenix.github.io/QuoteGenerator/)

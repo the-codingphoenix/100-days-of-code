@@ -81,3 +81,11 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/QuoteGenerator)
 2. [Live View of Solution](https://the-codingphoenix.github.io/QuoteGenerator/)
+
+### Day 3: Friday, June 28, 2024
+
+**Today's Progress**: I started another project today. This project is to replicate infinite scrolling on a website. So far, I ave completed the CSS aspect of the project. That is ensuring that the images are displayed properly in a grid and the website is responsive. 
+
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/InfiniteScroll)
+2. [Live View of Solution](https://the-codingphoenix.github.io/InfiniteScroll/)

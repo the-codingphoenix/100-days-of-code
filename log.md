@@ -89,3 +89,10 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/InfiniteScroll)
 2. [Live View of Solution](https://the-codingphoenix.github.io/InfiniteScroll/)
+   
+### Day 4: Saturday, June 29, 2024
+
+**Today's Progress**: The infinite scrolling is complete. Pictures are taken from unsplash api and I adjusted the height and width for the purpose of my project. 
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/InfiniteScroll)
+2. [Live View of Solution](https://the-codingphoenix.github.io/InfiniteScroll/)

@@ -96,3 +96,10 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/InfiniteScroll)
 2. [Live View of Solution](https://the-codingphoenix.github.io/InfiniteScroll/)
+
+### Day 5: Sunday, June 30, 2024
+
+**Today's Progress**: Today I worked on a picture-in-picture web app. User can minimize a window or tab in picture-in-picture mode. 
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Picture-in-Picture)
+2. [Live View of Solution](https://the-codingphoenix.github.io/Picture-in-Picture/)

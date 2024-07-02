@@ -103,3 +103,10 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/Picture-in-Picture)
 2. [Live View of Solution](https://the-codingphoenix.github.io/Picture-in-Picture/)
+
+### Day 6: Monday, July 01, 2024
+
+**Today's Progress**: Today I started a joke teller project. So far I have added the robot to the webpage and added the css I needed. 
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/JokeTeller)
+2. [Live View of Solution](https://the-codingphoenix.github.io/JokeTeller/)

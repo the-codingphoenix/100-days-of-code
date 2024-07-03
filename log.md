@@ -110,3 +110,10 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/JokeTeller)
 2. [Live View of Solution](https://the-codingphoenix.github.io/JokeTeller/)
+
+### Day 7: Tuesday, July 02, 2024
+
+**Today's Progress**: I am still working on the joke teller project. The different APIs are a bit more challenging, but I was able to get the speech to audio. Project still not completed yet.
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/JokeTeller)
+2. [Live View of Solution](https://the-codingphoenix.github.io/JokeTeller/)

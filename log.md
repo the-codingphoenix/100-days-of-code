@@ -120,7 +120,7 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 
 ### Day 8: Wednesday, July 03, 2024
 
-**Today's Progress**: JokeTeller completed. Click the button to hear a programming joke. 
+**Today's Progress**: JokeTeller completed. Click the button to hear a joke. 
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/JokeTeller)
 2. [Live View of Solution](https://the-codingphoenix.github.io/JokeTeller/)

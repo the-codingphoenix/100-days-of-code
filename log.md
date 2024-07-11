@@ -124,3 +124,49 @@ I had taken a break due to an unexpected personal situation that forced me to tr
 **Link(s) to work**
 1. [Github Repository](https://github.com/the-codingphoenix/JokeTeller)
 2. [Live View of Solution](https://the-codingphoenix.github.io/JokeTeller/)
+
+### Day 9: Thursday, July 04, 2024
+
+**Today's Progress**: Started working on getting a website to change from light to dark. So far, css is completed. I will work on functionality next.
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Light-Dark-Mode)
+2. [Live View of Solution](https://the-codingphoenix.github.io/Light-Dark-Mode/)
+
+### Day 10: Friday, July 05, 2024
+
+**Today's Progress**: The light-to-dark functionality is now working. I also made the project responsive. As my focus was on getting the webpage to switch from light to dark, the menu option is not working.
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Light-Dark-Mode)
+2. [Live View of Solution](https://the-codingphoenix.github.io/Light-Dark-Mode/)
+
+### Day 11: Saturday, July 06, 2024
+
+**Today's Progress**: I started working on a simple portfolio website. The main aspect of this project is layout and functionality. Links will come once the project is completed.
+
+### Day 12: Sunday, July 07, 2024
+
+**Today's Progress**: Here is a simple portfolio website. The main aspect of this project is layout and functionality. Website is mobile responsive.
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Simple-Portfolio-Website)
+2. [Live View of Solution](https://simple-portfolio-01.netlify.app/)
+
+### Day 13: Monday, July 08, 2024
+
+**Today's Progress**: Today I worked on a responsive navigation for a website with advanced CSS.
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Navigation-Nation)
+2. [Live View of Solution](https://navanimation.netlify.app/)
+
+### Day 14: Tuesday, July 09, 2024
+
+**Today's Progress**: Today I mainly did some reading on javascript. I also started to code a form. I intend to use JS to do validation. So far, I have completed the CSS aspect of the form. Links will be posted once completed.
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Navigation-Nation)
+2. [Live View of Solution](https://navanimation.netlify.app/)
+
+### Day 15: Wednesday, July 10, 2024
+
+**Today's Progress**: The form validation with javascript is completed. For the purpose of this project, form data is displayed in the console. 
+**Link(s) to work**
+1. [Github Repository](https://github.com/the-codingphoenix/Form-Validation)
+2. [Live View of Solution](https://validation4forms.netlify.app/)
